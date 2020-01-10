@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\default.LAPTOP-FNQR83HC\Desktop\Detyra me rekurzion - Erlis Lushtaku\Detyra me rekurzion - Erlis Lushtaku\Source.cpp(384,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\default.LAPTOP-FNQR83HC\Desktop\Detyra me rekurzion - Erlis Lushtaku\Detyra me rekurzion - Erlis Lushtaku\Source.cpp(329): warning C4715: 'vMax': not all control paths return a value
+  Detyra me rekurzion - Erlis Lushtaku.vcxproj -> C:\Users\default.LAPTOP-FNQR83HC\Desktop\Detyra me rekurzion - Erlis Lushtaku\Debug\Detyra me rekurzion - Erlis Lushtaku.exe
