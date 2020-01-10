@@ -6,6 +6,7 @@ Fakulteti i Inxhinierise Elektrike dhe Kompjuterike
 
 
 Drejtimi: Inxhinieri Kompjuterike
+
 Viti: I
 
 Semestri: I
